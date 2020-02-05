@@ -3,6 +3,7 @@
 
 #include <QMainWindow>
 #include <string.h>
+//Test coment
 
 QT_BEGIN_NAMESPACE
 namespace Ui { class MainWindow; }
