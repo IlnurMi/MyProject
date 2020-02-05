@@ -3,7 +3,7 @@
 #include <QApplication>
 
 int main(int argc, char *argv[])
-{
+{   //Класс запускающий все
     QApplication a(argc, argv);
     MainWindow w;
     w.show();
